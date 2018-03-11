@@ -14,3 +14,20 @@ Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaff
 7.&nbsp; Identify critical legal and ethical challenges in the design and production of games. | 3. Ethical Reasoning | 110, 220, 299, 320  | ???
 8.&nbsp; Effectively communicate technical and design concepts through writing, speech, and formal presentation. | 1. Critical Thinking, 4d. Communication Literacy | 110, 202?, 220, 230?, 320   | ???
 9.&nbsp; Effectively participate and contribute to multidisciplinary design and development teams. | 2. Global Interconnectedness, 4. Integrative Literacies | 106, 220, 320   | ???
+
+
+## II. Course Clusters
+
+Cluster | Courses | Taxonomy* | Comments
+--- | --- | --- | ---
+
+Programming | ??? | ??? | ???
+
+Game Design  | ??? | ??? | ???
+
+Art Production  | ??? | ??? | ???
+
+
+
+
+* 
