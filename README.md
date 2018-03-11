@@ -13,7 +13,7 @@ Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaff
 8.&nbsp; Effectively communicate technical and design concepts through writing, speech, and formal presentation. | 1. Critical Thinking, 4d. Communication Literacy | 110, 202?, 220, 230?, 320   | ???
 9.&nbsp; Effectively participate and contribute to multidisciplinary design and development teams. | 2. Global Interconnectedness, 4. Integrative Literacies | 106, 220, 320   | ???
 
-### Comments on BS-GDD Program Goals
+### I-A. Comments on BS-GDD Program Goals
 
 1. Do 119 & 219 really involve "game design & gameplay concepts"?
 2. Does 119 really involve "programming, math, physics and game design"?
@@ -25,7 +25,7 @@ Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaff
 8. The course outcomes for 202 & 230 do not list "speech and formal presentation"
 9, No comments
 
-### Other "Goals"
+### I-B. Other "Goals"
 - "Obtain gainful employment" is an assumed goal. What helps with this goal, according to our industry friends?
     - marketable skills in demand within the game industry:
         - *"We don't hire co-ops for karmic balance, we hire co-ops because we have a job that needs to be done.*
@@ -48,7 +48,7 @@ Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaff
 ## II. Core Course Matrix
 Course # | Description | Pre-reqs | Comments
 --- | --- | --- | ---
-110 | This course provides an overview of media in historical, current and future contexts. Incorporating lectures and discussion with hands on work involving written and interactive media assets, students examine the role of written and visual media from theoretical as well as practical perspectives.  The course also provides an introduction to interactive media development techniques, including digital media components and delivery environments.  Students will be required to write formal analysis and critique papers along with digital modes of writing including collaborative editing and effective presentation design.  | None | We have been running a NMID cohorted section of 110 for 2 years now. Have any changes been made to 
+110 | This course provides an overview of media in historical, current and future contexts. Incorporating lectures and discussion with hands on work involving written and interactive media assets, students examine the role of written and visual media from theoretical as well as practical perspectives.  The course also provides an introduction to interactive media development techniques, including digital media components and delivery environments.  Students will be required to write formal analysis and critique papers along with digital modes of writing including collaborative editing and effective presentation design.  | None | We have been running a NMID cohorted section of 110 for 2 years now, so 110 is pretty much "owned" by GDD majors and Game Design minors. Is there any interest in making changes to   to the course to make it more game focused?
 
 ## III. Elective Course Matrix
 
