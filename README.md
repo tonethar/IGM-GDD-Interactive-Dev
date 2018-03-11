@@ -1,6 +1,6 @@
 # IGM GDD Program Notes
 
-## BS-GDD Program Goals
+## I. BS-GDD Program Goals
 
 
 Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaffairs/outcomes/institutional-assessment/essential-outcomes)) | Core Courses | Elective Courses
