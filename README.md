@@ -15,14 +15,21 @@ Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaff
 8.&nbsp; Effectively communicate technical and design concepts through writing, speech, and formal presentation. | 1. Critical Thinking, 4d. Communication Literacy | 110, 202?, 220, 230?, 320   | ???
 9.&nbsp; Effectively participate and contribute to multidisciplinary design and development teams. | 2. Global Interconnectedness, 4. Integrative Literacies | 106, 220, 320   | ???
 
+## II. Core Course Matrix
+Course # | Description | Pre-reqs | Comments
+--- | --- | --- | ---
 
-## II. Course Clusters
+## III. Elective Course Matrix
 
+## IV. Course Clusters
 Cluster | Courses | Taxonomy* | Comments
 --- | --- | --- | ---
-Programming | ??? | ??? | ???
-Game Design  | ??? | ??? | ???
-Art Production  | ??? | ??? | ???
+Aesthetics & Art Production  | 119,219 | ??? | ???
+Game Design  | 220 | ??? | ???
+HCI  | 236 | ??? | ???
+Production & Teams  | 320 | ??? | ???
+Programming & Game Dev. | 105,106,219,319 | ??? | ???
+Survey | 110 | ??? | ???
 
 
 
