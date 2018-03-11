@@ -40,8 +40,8 @@ Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaff
     - are we preparing our GDD students for the best grad schools?
         - https://www.nytimes.com/2014/08/03/education/edlife/why-you-cant-catch-up.html
         - http://www.thecollegesolution.com/the-colleges-where-phds-get-their-start/
- - Would RIT like to get more "1 percenters?"
-     - https://www.nytimes.com/interactive/2017/01/18/upshot/some-colleges-have-more-students-from-the-top-1-percent-than-the-bottom-60.html
+    - Would RIT/GDD like to get more "1 percenters?"
+        - https://www.nytimes.com/interactive/2017/01/18/upshot/some-colleges-have-more-students-from-the-top-1-percent-than-the-bottom-60.html
 <hr>
 
 
