@@ -6,7 +6,7 @@
 Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaffairs/outcomes/institutional-assessment/essential-outcomes)) | Core Courses | Elective Courses
 --- | --- | --- | ---
 1.&nbsp;Identify, analyze, and resolve game design problems using industry-established game design and gameplay concepts. | 1. Critical Thinking, 2. Ethical Reasoning | 106, 119?, 219?, 220, 320  | ???
-2.&nbsp;Apply knowledge of programming,math, physics, and game design to the field of game design and development. | 1. Critical Thinking, 4. Creative and Innovative Thinking, 5.Integrative Literacies | 105, 106, 119?, 209, 309, 330    | ???
+2.&nbsp;Apply knowledge of programming,math, physics, and game design to the field of game design and development. | 1. Critical Thinking, 4. Creative and Innovative Thinking, 5. Integrative Literacies | 105, 106, 119?, 209, 309, 330    | ???
 3.&nbsp; Integrate game design and technology concepts in the practice of game creation. | 4. Creative and Innovative Thinking, 5b. Computational or Digital Literacy, 5c. Mathematical Literacy or Numeracy, 5e. Technical Literacy | 105, 106, 119?, 219?, 320,   | ???
 4.&nbsp; Identify and solve production pipeline issues related to the game design and development process. | 1. Critical Thinking, 5b. Computational or Digital Literacy, 5e. Technical Literacy | 106, 119, 219, 220, 320  | ???
 5.&nbsp; Apply technology to develop media-centric experiences. | 5e. Technical Literacy | 110, 202, 230, 330   | ???
