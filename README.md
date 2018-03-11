@@ -23,7 +23,7 @@ Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaff
 6. No comments
 7. How are we *specifically* meeting the goal of "Identify critical legal and ethical challenges" in the listed courses?
 8. The course outcomes for 202 & 230 do not list "speech and formal presentation"
-9, No comments
+9. No comments
 
 ### I-B. Other "Goals"
 - "Obtain gainful employment" is an assumed goal. What helps with this goal, according to our industry friends?
