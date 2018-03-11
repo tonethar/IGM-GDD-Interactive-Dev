@@ -12,5 +12,5 @@ Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaff
 5.&nbsp; Apply technology to develop media-centric experiences. | 5e. Technical Literacy | 110, 202, 230, 330,   | ???
 6.&nbsp; Identify, critique & apply knowledge of media theory, mediated communication & aesthetics towards the construction of media-centric apps. | 2. Ethical Reasoning, 3. Global Interconnectedness, 5d. Communication Literacy | 110, 119, 219, 230, 236, 330,     | ???
 7.&nbsp; Identify critical legal and ethical challenges in the design and production of games. | 2. Ethical Reasoning | 110, 220, 299, 320  | ???
-8.&nbsp; Effectively communicate technical and design concepts through writing, speech, and formal presentation. | 1. Critical Thinking, 5d. Communication Literacy | 110, 202?, 220, 230, 320,   | ???
+8.&nbsp; Effectively communicate technical and design concepts through writing, speech, and formal presentation. | 1. Critical Thinking, 5d. Communication Literacy | 110, 202?, 220, 230?, 320,   | ???
 9.&nbsp; Effectively participate and contribute to multidisciplinary design and development teams. | 3. Global Interconnectedness, 5. Integrative Literacies | 106, 220, 320,   | ???
