@@ -37,7 +37,7 @@ Course # | Description | Pre-reqs | Comments
 
 ## IV. Course Clusters
 Cluster | Courses | Taxonomy* | Electives | Comments
---- | --- | --- | ---
+--- | --- | --- | --- | ---
 Aesthetics & Art Production  | 119,219 | ??? | ??? | ???
 Game Design  | 220 | ??? | ??? | ???
 HCI  | 236 | ??? | ??? | ???
