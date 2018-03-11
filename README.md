@@ -34,7 +34,7 @@ Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaff
     - a polished portfolio:
         - "Passion Projects"
 - Employment within the game industry is the goal of the majority of our GDD freshman - this happens for between roughly 30-40% of our graduates each year - usually about 30 +/- 5 students each year. Are we satisfied with this number?
-- Does the GDD degree give a good "fall back" if the student can not find a position in the game industry (or discovers that they 
+- Does the GDD degree give a good "fall back" if the student can not find a position in the game industry (or discovers that they would rather work in the broader "New Media" field?
 - What about students who are interested in research, or plan to go to grad school?
     - not every student is looking to jump into the job market in 4 years
     - are we preparing our GDD students for the best grad schools?
