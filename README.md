@@ -3,7 +3,7 @@
 ## GDD Program Goals met by Interactive Dev
 
 
-Student Learning Outcomes | Mapping (RIT Goals) | IGM-Courses
+Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaffairs/outcomes/institutional-assessment/essential-outcomes)) | IGM-Courses
 --- | --- | ---
 1.&nbsp;Identify, analyze, and resolve game design problems using industry-established game design and gameplay concepts. | 1. Critical Thinking, 2. Ethical Reasoning | 330
 2.&nbsp;Apply knowledge of programming,math, physics, and game design to the field of game design and development. | 1. Critical Thinking, 4. Creative and Innovative Thinking, 5.Integrative Literacies | ???
