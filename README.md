@@ -20,14 +20,10 @@ Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaff
 
 Cluster | Courses | Taxonomy* | Comments
 --- | --- | --- | ---
-
 Programming | ??? | ??? | ???
-
 Game Design  | ??? | ??? | ???
-
 Art Production  | ??? | ??? | ???
 
 
 
-
-* 
+/*
