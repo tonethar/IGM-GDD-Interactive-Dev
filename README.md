@@ -22,9 +22,26 @@ Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaff
 5. In 110, are static web pages what we think of as "media-centric experiences"? Technically they are, but 202, 230 and 330 seem more represenntative of this.
 6. No comments
 7. How are we *specifically* meeting the goal of "Identify critical legal and ethical challenges" in the listed courses?
-8. The course outcomes for 202 & 230 do not list 
+8. The course outcomes for 202 & 230 do not list "speech and formal presentation"
+9, No comments
 
-### 
+### Other "Goals"
+- "Obtain gainful employment" is an assumed goal. What helps with this goal, according to our industry friends?
+    - marketable skills in demand within the game industry:
+        - *"We don't hire co-ops for karmic balance, we hire co-ops because we have a job that needs to be done.*
+    - interview and interpersonal skills:
+        - *"No A****** rule"*
+    - a polished portfolio:
+        - "Passion Projects"
+- Employment within the game industry is the goal of the majority of our GDD freshman - this happens for between roughly 30-40% of our graduates each year - usually about 30 +/- 5 students each year. Are we satisfied with this number?
+- Does the GDD degree give a good "fall back" if the student can not find a position in the game industry (or discovers that they 
+- What about students who are interested in research, or plan to go to grad school?
+    - not every student is looking to jump into the job market in 4 years
+    - are we preparing our GDD students for the best grad schools?
+        - https://www.nytimes.com/2014/08/03/education/edlife/why-you-cant-catch-up.html
+        - http://www.thecollegesolution.com/the-colleges-where-phds-get-their-start/
+ - Would RIT like to get more "1 percenters?"
+     - https://www.nytimes.com/interactive/2017/01/18/upshot/some-colleges-have-more-students-from-the-top-1-percent-than-the-bottom-60.html
 <hr>
 
 
