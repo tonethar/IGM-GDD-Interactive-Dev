@@ -3,7 +3,7 @@
 ## BS-GDD Program Goals
 
 
-Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaffairs/outcomes/institutional-assessment/essential-outcomes)) | Core Courses | Electives
+Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaffairs/outcomes/institutional-assessment/essential-outcomes)) | Core Courses | Elective Courses
 --- | --- | --- | ---
 1.&nbsp;Identify, analyze, and resolve game design problems using industry-established game design and gameplay concepts. | 1. Critical Thinking, 2. Ethical Reasoning | 106, 119?, | ???
 2.&nbsp;Apply knowledge of programming,math, physics, and game design to the field of game design and development. | 1. Critical Thinking, 4. Creative and Innovative Thinking, 5.Integrative Literacies | 105, 106, 119?, | ???
