@@ -1,4 +1,4 @@
-# IGM-GDD-Interactive-Dev
+# IGM GDD Program Notes
 
 ## BS-GDD Program Goals
 
