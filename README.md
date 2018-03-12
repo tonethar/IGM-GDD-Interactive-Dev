@@ -25,23 +25,25 @@ Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaff
 8. The course outcomes for 202 & 230 do not list "speech and formal presentation"
 9. No comments
 
-### I-B. Other "Goals"
+### I-B. Other BS-GDD "Goals"
+- Students work on teams produce polishd games that make both them and GDD/MAGIC/RIT look good
+- Entrepreneurship
 - "Obtain gainful employment" is an assumed goal. What helps with this goal, according to our industry friends?
     - marketable skills in demand within the game industry:
         - *"We don't hire co-ops for karmic balance, we hire co-ops because we have a job that needs to be done.*
-    - interview and interpersonal skills:
-        - *"No A****** rule"*
-    - a polished portfolio:
+    - interviewing and interpersonal skills:
+    - a polished resume & portfolio:
         - "Passion Projects"
 - Employment within the game industry is the goal of the majority of our GDD freshman - this happens for between roughly 30-40% of our graduates each year - usually about 30 +/- 5 students each year. Are we satisfied with this number?
-- Does the GDD degree give a good "fall back" if the student can not find a position in the game industry (or discovers that they would rather work in the broader "New Media" field?
-- What about students who are interested in research, or plan to go to grad school?
+- Does the GDD degree give a good "fall back" if the student can not find a position in the game industry, or discovers that they would rather work in the broader "New Media" field?
+- What about students who are interested in research, or plan to go straight to grad school after geting their BS?
     - not every student is looking to jump into the job market in 4 years
     - are we preparing our GDD students for the best grad schools?
         - https://www.nytimes.com/2014/08/03/education/edlife/why-you-cant-catch-up.html
         - http://www.thecollegesolution.com/the-colleges-where-phds-get-their-start/
     - Would RIT/GDD like to get more "1 percenters?"
         - https://www.nytimes.com/interactive/2017/01/18/upshot/some-colleges-have-more-students-from-the-top-1-percent-than-the-bottom-60.html
+        
 <hr>
 
 
@@ -50,7 +52,7 @@ Course # | Description | Pre-reqs | Comments
 --- | --- | --- | ---
 105 | ??? | ??? | Accelerated version beginning 2181
 106 | ??? | ??? | Accelerated version beginning 2185
-110 | This course provides an overview of media in historical, current and future contexts. Incorporating lectures and discussion with hands on work involving written and interactive media assets, students examine the role of written and visual media from theoretical as well as practical perspectives.  The course also provides an introduction to interactive media development techniques, including digital media components and delivery environments.  Students will be required to write formal analysis and critique papers along with digital modes of writing including collaborative editing and effective presentation design.  | None | We have been running a NMID cohorted section of 110 for 2 years now, so 110 is pretty much "owned" by GDD majors and Game Design minors. Is there any interest in making changes to   to the course to make it more game focused?
+110 | This course provides an overview of media in historical, current and future contexts. Incorporating lectures and discussion with hands on work involving written and interactive media assets, students examine the role of written and visual media from theoretical as well as practical perspectives.  The course also provides an introduction to interactive media development techniques, including digital media components and delivery environments.  Students will be required to write formal analysis and critique papers along with digital modes of writing including collaborative editing and effective presentation design.  | None | We have been running a NMID cohorted section of 110 for 2 years now, so 110 is pretty much "owned" by GDD majors and Game Design minors. Is there any interest in making changes to the course to make it more game focused?
 119 | ??? | ??? | ???
 209 | ??? | ??? | ???
 219 | ??? | ??? | ???
