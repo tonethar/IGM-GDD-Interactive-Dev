@@ -48,7 +48,19 @@ Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaff
 ## II. Core Course Matrix
 Course # | Description | Pre-reqs | Comments
 --- | --- | --- | ---
+105 | ??? | ??? | ???
+106 | ??? | ??? | ???
 110 | This course provides an overview of media in historical, current and future contexts. Incorporating lectures and discussion with hands on work involving written and interactive media assets, students examine the role of written and visual media from theoretical as well as practical perspectives.  The course also provides an introduction to interactive media development techniques, including digital media components and delivery environments.  Students will be required to write formal analysis and critique papers along with digital modes of writing including collaborative editing and effective presentation design.  | None | We have been running a NMID cohorted section of 110 for 2 years now, so 110 is pretty much "owned" by GDD majors and Game Design minors. Is there any interest in making changes to   to the course to make it more game focused?
+119 | ??? | ??? | ???
+209 | ??? | ??? | ???
+219 | ??? | ??? | ???
+119 | ??? | ??? | ???
+220 | ??? | ??? | ???
+230 | ??? | ??? | ???
+236 | ??? | ??? | ???
+309 | ??? | ??? | ???
+320 | ??? | ??? | ???
+330 | ??? | ??? | ???
 
 ## III. Elective Course Matrix
 
