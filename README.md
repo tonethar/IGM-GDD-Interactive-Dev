@@ -26,7 +26,7 @@ Student Learning Outcomes | Mapping ([RIT Goals](https://www.rit.edu/academicaff
 9. No comments
 
 ### I-B. Other BS-GDD "Goals"
-- Students work on teams produce polishd games that make both them and GDD/MAGIC/RIT look good
+- Students work on teams produce polishd games that make both them and IGM/MAGIC/RIT look good
 - Entrepreneurship
 - "Obtain gainful employment" is an assumed goal. What helps with this goal, according to our industry friends?
     - marketable skills in demand within the game industry:
